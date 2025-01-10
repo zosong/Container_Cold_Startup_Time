@@ -1,0 +1,12 @@
+# Use the MySQL base image
+FROM mysql:latest
+
+# Copy the entrypoint script into the container
+COPY entrypoint.py /usr/local/bin/entrypoint.py
+
+# Copy any required config file
+COPY app.conf /etc/myapp/config
+
+# Set the entrypoint
+ENTRYPOINT ["python3", "/usr/local/bin/entrypoint.py"]
+

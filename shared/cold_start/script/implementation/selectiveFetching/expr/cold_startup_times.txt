@@ -1,0 +1,65 @@
+Testing image: mysql:8.0-debian
+Run 1 for mysql:8.0-debian
+Run 1: 15.901021439 seconds
+Run 2 for mysql:8.0-debian
+Run 2: 15.164314828 seconds
+Run 3 for mysql:8.0-debian
+Run 3: 14.747484075 seconds
+Run 4 for mysql:8.0-debian
+Run 4: 14.571728914 seconds
+Run 5 for mysql:8.0-debian
+Run 5: 14.206392604 seconds
+Average time for mysql:8.0-debian: 14.91 seconds
+--------------------------------------------
+Testing image: jupyter/scipy-notebook
+Run 1 for jupyter/scipy-notebook
+Run 1: 75.030089746 seconds
+Run 2 for jupyter/scipy-notebook
+Run 2: 76.480927628 seconds
+Run 3 for jupyter/scipy-notebook
+Run 3: 77.274715897 seconds
+Run 4 for jupyter/scipy-notebook
+Run 4: 78.421144379 seconds
+Run 5 for jupyter/scipy-notebook
+Run 5: 79.817639111 seconds
+Average time for jupyter/scipy-notebook: 77.40 seconds
+--------------------------------------------
+Testing image: bitnami/spark
+Run 1 for bitnami/spark
+Run 1: 42.537509023 seconds
+Run 2 for bitnami/spark
+Run 2: 40.709388409 seconds
+Run 3 for bitnami/spark
+Run 3: 40.727625590 seconds
+Run 4 for bitnami/spark
+Run 4: 41.087599172 seconds
+Run 5 for bitnami/spark
+Run 5: 40.490962554 seconds
+Average time for bitnami/spark: 41.11 seconds
+--------------------------------------------
+Testing image: bde2020/hadoop-datanode
+Run 1 for bde2020/hadoop-datanode
+Run 1: 32.430908176 seconds
+Run 2 for bde2020/hadoop-datanode
+Run 2: 33.925510231 seconds
+Run 3 for bde2020/hadoop-datanode
+Run 3: 32.578828430 seconds
+Run 4 for bde2020/hadoop-datanode
+Run 4: 32.495636798 seconds
+Run 5 for bde2020/hadoop-datanode
+Run 5: 33.643161308 seconds
+Average time for bde2020/hadoop-datanode: 33.01 seconds
+--------------------------------------------
+Testing image: tomcat
+Run 1 for tomcat
+Run 1: 13.269932899 seconds
+Run 2 for tomcat
+Run 2: 13.392247370 seconds
+Run 3 for tomcat
+Run 3: 13.232351773 seconds
+Run 4 for tomcat
+Run 4: 12.974153170 seconds
+Run 5 for tomcat
+Run 5: 13.410896290 seconds
+Average time for tomcat: 13.25 seconds
+--------------------------------------------

@@ -1,0 +1,4 @@
+Testing image: mysql:8.0-debian
+Run 1 for mysql:8.0-debian
+Run 1: CPU=%, MEM=0.00
+Run 2 for mysql:8.0-debian

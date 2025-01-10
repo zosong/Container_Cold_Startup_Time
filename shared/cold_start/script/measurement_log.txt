@@ -1,0 +1,5 @@
+Cold Start Time for mysql:latest: 1.2760648727416992 seconds
+Cold Start Time for mysql:8.0-oracle: 2.0012001991271973 seconds
+Cold Start Time for mysql:8.0-debian: 2.0007059574127197 seconds
+Cold Start Time for postgres:latest: 2.0001444816589355 seconds
+Cold Start Time for postgres:alpine: 2.001072645187378 seconds
